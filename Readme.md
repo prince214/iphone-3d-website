@@ -2,9 +2,9 @@
 
 Apple store website clone to buy Iphone. Used 3D assets and gsap for animation.
 
-## Demo
+## Demo url
 
-Insert gif or link to demo
+https://apple-store-3d.netlify.app/
 
 ## Screenshots
 
